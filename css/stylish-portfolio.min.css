@@ -516,6 +516,7 @@ p.footer {
   padding: 10px 15px;
   margin-bottom: 0;
   list-style-position: inside;
+  text-align: left;
 }
 
 .timeline-footer {
@@ -565,6 +566,7 @@ p.footer {
   ul.timeline > li > .timeline-panel {
     width: calc(100% - 65px);
     width: -webkit-calc(100% - 65px);
+    padding-top: 10px;
   }
 
   ul.timeline > li > .timeline-badge {
@@ -603,4 +605,5 @@ p.footer {
   }
 }
 /*End CSS for timeline*/
+
 /*# sourceMappingURL=stylish-portfolio.min.css.map */

@@ -199,6 +199,7 @@ p.footer {
     padding: 10px 15px;
     margin-bottom: 0;
     list-style-position: inside;
+    text-align: left;
 }
 .timeline-footer {
     padding: 5px 15px;
@@ -237,6 +238,7 @@ p.footer {
         width: calc(100% - 65px);
         width: -moz-calc(100% - 65px);
         width: -webkit-calc(100% - 65px);
+        padding-top: 10px;
     }
     ul.timeline > li > .timeline-badge {
         left: 28px;
