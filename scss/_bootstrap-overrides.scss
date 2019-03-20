@@ -87,6 +87,17 @@ p.footer {
     text-align: center;
 }
 
+.portfolio-item .caption .caption-content h2 {
+  font-size: 3rem;
+  color:burlywood;
+  background-color: rgba(95, 158, 160,0.2);
+}
+
+.portfolio-item .caption .caption-content p {
+  text-align: center;
+  background-color: rgba(105,105,105,0.3);
+}
+
 /* -----------------------------------------------
  * Timeline
  * --------------------------------------------- */
